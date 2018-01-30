@@ -1,2 +1,2 @@
 # Project-Euterpe
-Music player using Qt.
+Modern Music Player
